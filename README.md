@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title> bwkcherie </title>
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 
 <body>
@@ -56,10 +56,10 @@
                     <table cellspacing="1px">
                         <tr>
                             <td>
-                                Web Development
+                                Photography
                             </td>
                             <td>
-                                ⭐⭐
+                                ⭐⭐⭐
                             </td>
                         </tr>
                         <tr>
@@ -84,10 +84,10 @@
                         </tr>
                         <tr>
                             <td>
-                                Gaming
+                                Design
                             </td>
                             <td>
-                                ⭐⭐⭐
+                                ⭐
                             </td>
                         </tr>
                     </table>
